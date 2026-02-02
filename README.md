@@ -4,16 +4,16 @@
 
 -   🎯 **Interactive Gift Box**: A beautifully designed gift box that opens with a click.
 -   🎉 **Engaging Animations**: Smooth CSS animations for the gift box opening and message reveal.
--   🔊 **Ambient Sound Effects**: Custom sound effects for opening the gift, revealing the message, and closing the card, enhancing the user experience.
+-   🔊 **Cool Cursor Animation**: The "No" button runs away from the cursor.
 -   💌 **Personalized Message Display**: A dedicated area for a special Valentine's message that appears after the gift box is opened.
--   🔄 **Toggle Message View**: A button to close the message card, allowing the gift box to reappear for repeated interaction.
--   📱 **Responsive Design**: Designed to be accessible and visually appealing on various devices (implied).
+-   🔄 **Fun Suprise Animation**: A bunch of confetti appears after you click "Yes".
+-   📱 **Responsive Design**: Designed to be accessible and visually appealing on various devices.
 
 ## 🖥️ Screenshots
 
-!
+<img width="1913" height="1040" alt="image" src="https://github.com/user-attachments/assets/2d5eb22b-1f7a-4232-90b3-27dc295e26b9" />
 
-!
+<img width="1915" height="1028" alt="image" src="https://github.com/user-attachments/assets/1428fcd7-cabc-4986-b7ce-cd0e83aad432" />
 
 ## 🛠️ Tech Stack
 
