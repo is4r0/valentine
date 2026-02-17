@@ -6,7 +6,7 @@
 -   🎉 **Engaging Animations**: Smooth CSS animations for the gift box opening and message reveal.
 -   🔊 **Cool Cursor Animation**: The "No" button runs away from the cursor.
 -   💌 **Personalized Message Display**: A dedicated area for a special Valentine's message that appears after the gift box is opened.
--   🔄 **Fun Suprise Animation**: A bunch of confetti appears after you click "Yes".
+-   🔄 **Fun Suprise Animation**: A bunch of confetti appears after you click "Yes".    
 -   📱 **Responsive Design**: Designed to be accessible and visually appealing on various devices.    
 
 ## 🖥️ Screenshots
