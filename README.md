@@ -1,5 +1,3 @@
-## ✏️ [Live Demo](https://valentinemine.netlify.app/)
-
 ## ✨ Features
 
 -   🎯 **Interactive Gift Box**: A beautifully designed gift box that opens with a click.
