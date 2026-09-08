@@ -15,6 +15,8 @@
 
 <img width="1915" height="1028" alt="image" src="https://github.com/user-attachments/assets/1428fcd7-cabc-4986-b7ce-cd0e83aad432" />
 
+---
+
 ## 🛠️ Tech Stack
 
 **Frontend:**
@@ -24,6 +26,8 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+---
 
 ## 🚀 Quick Start
 
