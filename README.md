@@ -65,6 +65,8 @@ valentine/
 └── README.md         # Project README file
 ```
 
+---
+
 ## 🤝 Contributing
 
 I welcome contributions! If you have suggestions for improvements, new features, or bug fixes, please feel free to open an issue or submit a pull request.
