@@ -51,6 +51,8 @@
     ```
     Or manually navigate to the `index.html` file path in your browser.
 
+    ---
+
 ## 📁 Project Structure
 
 ```
